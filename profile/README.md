@@ -5,7 +5,7 @@ Preconfigured applications for developers.
 You might find these useful if:
 - You want to use Vim like keybindings everywhere
 - You want to avoid conflicting key bindings
-- You want consistent theming (=catppuccin everywhere <3)
+- You want consistent theming (=catppuccin everywhere)
 - Overall, want to focus in the *boring* work instead of configuring.
 
 ## Installation
